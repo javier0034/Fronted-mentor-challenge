@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section
+# Javier de Jesus Estevez Montano 403
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
